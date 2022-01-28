@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplicaciones>
+  <aplicacion categoria="programacion">
+    <nombre>NetBeans</nombre>
+    <compania>Oracle</compania>
+  </aplicacion>
+  <aplicacion categoria="programacion">
+    <nombre>Eclipse</nombre>
+    <compania>Eclipse foundation</compania>
+  </aplicacion>
+</aplicaciones>
+
